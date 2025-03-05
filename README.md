@@ -1,4 +1,4 @@
-# terraform-cloud
+# Terraform-cloud
 
 
 Terraform Cloud is a powerful platform that helps teams collaborate on Terraform configurations, manage state files, and utilize the Terraform Registry for reusable modules. Below is an overview of how to effectively utilize Terraform Cloud for these purposes.
